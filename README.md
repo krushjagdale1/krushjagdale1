@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krushjagdale1
+- 👋 Hi, I’m Krushna Jagdale
 - 👀 I’m interested in ... Devops Engineer 
 - 🌱 I’m currently learning ... Devops
-- 📫 How to reach me ... krushjagdale@gmail.com. +918468981808
+- 📫 How to reach me ... krushnaj635@gmail.com. +918468981808
 - 😄 Pronouns: ... He
 
 
