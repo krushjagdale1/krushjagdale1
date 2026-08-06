@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Krushna Jagdale
-- 👀 I’m interested in ... Devops Engineer 
-- 🌱 I’m currently learning ... Devops
-- 📫 How to reach me ... krushnaj635@gmail.com. +918468981808
-- 😄 Pronouns: ... He
+Hi, I’m Krushna Jagdale
 
+. I’m interested in DevOps Engineering, Cloud, Kubernetes, and CI/CD
 
-<!---
-krushjagdale1/krushjagdale1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+. I’m working as a DevOps Engineer
+
+. Skills: AWS, Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Helm, Prometheus, Grafana, ELK, Linux , SonarQube, Gitlab CI
+
+. How to reach me: krushnaj635@gmail.com | +91 9022507897
+
+. Fun fact: I enjoy automating deployments and building reliable cloud-native infrastructure
