@@ -168,3 +168,13 @@
 <p align="center">
   <i>Designing reliable cloud-native systems with a DevOps-first mindset ⚡</i>
 </p>
+
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=krushjagdale1&bg_color=0d1117&color=58a6ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20in%20the%20Last%20Year"
+    width="100%"
+  />
+</p>
