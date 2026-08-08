@@ -20,18 +20,47 @@
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-DevOps Engineer with hands-on experience in **CI/CD automation, Kubernetes, Docker, AWS, Jenkins, OpenShift, ArgoCD, GitLab CI/CD, and cloud-native infrastructure**.
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEVOPS_ENGINEER-0A0F1F?style=for-the-badge&logo=githubactions&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/CLOUD_NATIVE-0A0F1F?style=for-the-badge&logo=kubernetes&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITOPS-0A0F1F?style=for-the-badge&logo=argo&logoColor=00E5FF"/>
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hi, I'm **Krushna Jagdale**
+
+🚀 DevOps Engineer with **1.5+ years of hands-on experience** in cloud infrastructure, Kubernetes operations, CI/CD automation, observability, and platform reliability.
 
 🏦 Currently working in the **Banking domain**, supporting enterprise-grade Kubernetes and OpenShift environments.
 
-* Kubernetes & OpenShift Operations
-* CI/CD Automation
-* GitOps Workflows
-* Monitoring & Observability
-* Cloud Infrastructure
-* Platform Reliability
+* ⚡ Kubernetes & OpenShift Operations
+* 🔁 CI/CD & GitOps Automation
+* 📊 Monitoring & Observability
+* ☁️ AWS Infrastructure Management
+* 🐧 Linux & Shell Scripting
+* 🔐 DevSecOps Practices
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krushjagdale1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" width="100%"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+> 💡 *Passionate about building scalable cloud-native platforms, automating infrastructure, and improving system reliability through observability and GitOps practices.*
 
 ---
 
@@ -39,15 +68,31 @@ DevOps Engineer with hands-on experience in **CI/CD automation, Kubernetes, Dock
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/PRODUCTION_STYLE_ARCHITECTURE-0A0F1F?style=for-the-badge&logo=kubernetes&logoColor=00E5FF"/>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Enterprise DevOps Platform
+## 🏦 Enterprise DevOps Platform
 
-Production-style **6-VM architecture** with Kubernetes, Jenkins, ArgoCD, Prometheus, Grafana, ELK, SonarQube, and Trivy.
+Production-style **6-VM architecture** designed to simulate a real enterprise environment.
 
-**Tech Stack:** AWS • Kubernetes • Jenkins • ArgoCD • ELK • Grafana
+### ✨ Key Components
+
+* Kubernetes Master + Worker Nodes
+* Jenkins CI/CD
+* ArgoCD GitOps
+* Prometheus & Grafana
+* ELK Stack
+* SonarQube
+* Trivy Security Scanning
+
+### 🛠️ Stack
+
+`AWS` `Kubernetes` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `ELK`
 
 🔗 **Repository:**
 https://github.com/krushjagdale1
@@ -55,11 +100,19 @@ https://github.com/krushjagdale1
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Bank Website Clone
+## 🌐 Bank Website Clone
 
-Responsive banking website clone with modern UI and deployment-ready structure.
+Modern responsive banking website with deployment-ready structure.
 
-**Tech Stack:** HTML • CSS • JavaScript
+### ✨ Highlights
+
+* Responsive UI
+* Clean component structure
+* Static deployment ready
+
+### 🛠️ Stack
+
+`HTML` `CSS` `JavaScript`
 
 🔗 **Repository:**
 https://github.com/krushjagdale1/bank-website-clone-krushna
@@ -69,18 +122,39 @@ https://github.com/krushjagdale1/bank-website-clone-krushna
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management Project
+## 🏥 Hospital Management Project
 
-Full-stack hospital management application with authentication and data management modules.
+Web application for hospital operations and patient management workflows.
 
-**Tech Stack:** JavaScript • Backend APIs
+### ✨ Highlights
+
+* Authentication flow
+* Dashboard modules
+* CRUD operations
+
+### 🛠️ Stack
+
+`JavaScript` `Backend APIs`
 
 🔗 **Repository:**
 https://github.com/krushjagdale1/hospital-project
 
 </td>
 <td width="50%" valign="top">
-  
+
+## 🏦 Banking System Project
+
+Backend-focused banking application implementing core banking features.
+
+### ✨ Highlights
+
+* Account operations
+* Transaction logic
+* Database integration
+
+### 🛠️ Stack
+
+`PHP` `MySQL`
 
 🔗 **Repository:**
 https://github.com/krushjagdale1/banking-system-project
@@ -88,6 +162,17 @@ https://github.com/krushjagdale1/banking-system-project
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### ⚙️ DevOps Project Highlights
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
 </div>
 
@@ -170,6 +255,20 @@ https://github.com/krushjagdale1/banking-system-project
 <img src="https://img.shields.io/badge/DevOps-StarAgile-0F172A?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
+
+---
+
+# 🌱 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kubernetes-Administration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Native-Deployments-2563EB?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monitoring-Observability-F59E0B?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</p>
+
 ---
 
 # 🌐 Connect With Me
