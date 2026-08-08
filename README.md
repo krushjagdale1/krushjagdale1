@@ -1,51 +1,174 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ========================================================= -->
+
+<!--                 KRUSHNA JAGDALE PROFILE README            -->
+
+<!-- ========================================================= -->
+
+<!-- ================= HERO IMAGE ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krushjagdale1/krushjagdale1/main/assets/profile-bg.jpg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/krushjagdale1/krushjagdale1/main/profile-bg.jpg" width="100%"/>
 </p>
 
-<h1 align="center">Krushna Jagdale</h1>
+<!-- ================= NAME ================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Krushna+Jagdale"/>
+</h1>
+
+<!-- ================= TITLE ================= -->
 
 <p align="center">
-  <b>DevOps Engineer • Kubernetes • OpenShift • AWS • Automation</b>
+  <b>DevOps Engineer</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=AI+Inspired+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+OpenShift;CI%2FCD+Automation+Expert;GitOps+with+ArgoCD;Observability+with+Prometheus+and+Grafana;Linux+%7C+Shell+Scripting+%7C+Cloud+Native"/>
-</p>
+<!-- ================= HERO TECH LOGOS ================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20PROFILE-ONLINE-0B1023?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/CLOUD%20NATIVE-ACTIVE-0B1023?style=for-the-badge&logo=kubernetes&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/DEVOPS-AUTOMATION-0B1023?style=for-the-badge&logo=githubactions&logoColor=22D3EE"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krushjagdale1&style=for-the-badge&color=2563eb"/>
-  <img src="https://img.shields.io/github/followers/krushjagdale1?style=for-the-badge&color=2563eb"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,jenkins,gitlab,linux,bash&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:2563EB,100:0B1023&height=4&section=header" width="100%"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## 🧠 About Me
+<!-- ================= MOTION ================= -->
 
-🚀 DevOps Engineer with **1.5+ years of experience** in cloud-native infrastructure, Kubernetes operations, CI/CD automation, observability, and platform reliability.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+Reliable+Cloud-Native+Platforms;Kubernetes+%7C+Docker+%7C+OpenShift+%7C+AWS;CI%2FCD+Automation+with+Jenkins+and+GitLab+CI;GitOps+with+ArgoCD;Observability+with+Prometheus+and+Grafana"/>
+</p>
 
-🏦 Currently working in the **Banking domain**, supporting enterprise-grade **Kubernetes** and **OpenShift** environments.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=4&section=header" width="100%"/>
+</p>
 
-☁️ Passionate about **Cloud Infrastructure**, **Automation**, **Linux**, **Monitoring**, and **Site Reliability Engineering**.
+<!-- ================= ABOUT ================= -->
 
-⚡ Focused on building **scalable, secure, observable, and resilient production platforms** with a modern DevOps-first mindset.
+## ⚡ About Me
 
-### 📡 My Details
+<div align="center">
 
-- 👤 **Name:** Krushna Jagdale
-- 💼 **Role:** DevOps Engineer
-- 📍 **Location:** Pune / Mumbai, Maharashtra, India
-- 🏦 **Domain:** Banking
-- ☸️ **Platform:** Kubernetes & OpenShift
-- ☁️ **Cloud:** AWS
-- 🐧 **OS:** Linux
-- ⏳ **Experience:** 1.5+ Years
+# 👨‍💻 Krushna Jagdale
+
+### 📌 Professional Summary
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+with+1.5%2B+years+of+experience+in+deployment+automation%2C;infrastructure+management%2C+production+support%2C+and+improving+platform+reliability+for;cloud-native+applications.+Experienced+with+Kubernetes%2C+Docker%2C+OpenShift%2C+AWS%2C;CI%2FCD+automation%2C+monitoring%2C+and+Linux+administration.+Strong+problem-solving+skills%2C;automation+mindset%2C+and+experience+collaborating+with+cross-functional+teams+to+deliver;reliable%2C+scalable%2C+and+production-ready+platforms."/>
+</p>
+
+</div>
+
+## 📡 Professional Details
+
+* 👤 **Name:** Krushna Jagdale
+* 💼 **Role:** DevOps Engineer
+* 📧 **Email:** krushnaj635@gmail.com
+* 📍 **Location:** Pune / Mumbai, Maharashtra, India
+* ⏳ **Experience:** 1.5+ Years
+
+---
+
+## 🛠️ Technical Skills
+
+### ⚙️ CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harness_CD-FF6A00?style=for-the-badge&logo=harness&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
+### 🔀 Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+### ☁️ Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</p>
+
+### 📦 Containers & Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+### 🏗️ Infrastructure as Code
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Logging
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+</p>
+
+### 🐧 Operating Systems & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🔐 DevSecOps
+
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secrets_Management-2563EB?style=for-the-badge&logo=1password&logoColor=white"/>
+</p>
+
+### 🚀 Methodologies
+
+<p>
+  <img src="https://img.shields.io/badge/Troubleshooting-111827?style=for-the-badge&logo=opsgenie&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Deployment_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=22D3EE"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:krushnaj635@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krushnajagdale48/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/krushjagdale1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=140&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Designing reliable cloud-native systems with a DevOps-first mindset ⚡</i>
+</p>
