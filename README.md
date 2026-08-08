@@ -20,19 +20,46 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎯 **DevOps Engineer with 1.5+ years of experience** in cloud-native infrastructure, Kubernetes operations, CI/CD automation, observability, and platform reliability.
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-1D4ED8?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-Banking-0F172A?style=for-the-badge&logo=bank&logoColor=white"/>
+</p>
 
-🏦 Currently working in the **Banking domain**, supporting enterprise-grade Kubernetes and OpenShift environments.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=3&section=header" width="100%"/>
+</p>
 
-* 🔭 Building scalable **Kubernetes & OpenShift** platforms
-* ⚙️ Automating deployments with **Jenkins, GitHub Actions, GitLab CI & ArgoCD**
-* ☁️ Managing cloud workloads on **AWS**
-* 📊 Implementing **Prometheus, Grafana & ELK** for monitoring and logging
-* 🔐 Exploring **DevSecOps, SonarQube & secrets management**
-* 🌱 Learning advanced **SRE and cloud automation** practices
+<p align="center">
+💡 Passionate about <b>Cloud Infrastructure</b>, <b>Kubernetes</b>, <b>CI/CD Automation</b>, <b>Observability</b>, and <b>Platform Reliability</b>.
+</p>
 
+<p align="center">
+Currently working in the <b>Banking domain</b>, supporting enterprise-grade <b>Kubernetes</b> and <b>OpenShift</b> environments.
+</p>
+
+<div align="center">
+
+| 🚀 Focus Area | 💼 What I Do |
+|---|---|
+| ☸️ Kubernetes & OpenShift | Build and manage scalable cloud-native platforms |
+| ⚙️ CI/CD & GitOps | Jenkins, GitHub Actions, GitLab CI & ArgoCD |
+| ☁️ AWS Cloud | Deploy and operate cloud workloads |
+| 📊 Monitoring & Logging | Prometheus, Grafana & ELK Stack |
+| 🔐 DevSecOps | SonarQube, image scanning & secure delivery |
+| 🐧 Automation | Linux, Shell scripting & operational automation |
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=3&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-DevOps%20Opportunities-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 ---
 
 # 🚀 Featured DevOps Project
@@ -133,16 +160,6 @@
 * AWS Solutions Architect Associate (Learning)
 * Docker Certification
 * DevOps Certification – StarAgile
-
----
-
-# 🌱 Current Learning Goals
-
-* Advanced Kubernetes Administration
-* GitOps at Scale
-* SRE & Reliability Engineering
-* AWS DevOps Automation
-* DevSecOps Tooling
 
 ---
 
