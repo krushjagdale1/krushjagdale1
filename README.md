@@ -61,15 +61,11 @@
 
 </div>
 
-## 📡 Professional Details
+## 💼 Professional Details
 
-* 👤 **Name:** Krushna Jagdale
-* 💼 **Role:** DevOps Engineer
-* 📧 **Email:** krushnaj635@gmail.com
-* 📍 **Location:** Pune / Mumbai, Maharashtra, India
-* ⏳ **Experience:** 1.5+ Years
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=👤+Krushna+Jagdale;💼+DevOps+Engineer;📧+krushnaj635%40gmail.com;📍+Pune+%2F+Mumbai%2C+Maharashtra%2C+India;⏳+1.5%2B+Years+Experience"/>
+</p>
 
 ## 🛠️ Technical Skills
 
