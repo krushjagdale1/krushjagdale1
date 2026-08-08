@@ -6,10 +6,6 @@
 
 <!-- ================= HERO IMAGE ================= -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krushjagdale1/krushjagdale1/main/profile-bg.jpg" width="100%"/>
-</p>
-
 <!-- ================= NAME ================= -->
 
 <h1 align="center">
